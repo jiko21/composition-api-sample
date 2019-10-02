@@ -1,4 +1,6 @@
 # composition_sample
+v-kansai#11での発表「Deep Dive into Vue Composition API」のコードです
+デモは[こちら](https://jiko21.github.io/composition-api-sample)
 
 ## Project setup
 ```
